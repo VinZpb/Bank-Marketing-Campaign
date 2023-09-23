@@ -2,6 +2,7 @@
 This GitHub repository contains code for predicting whether customers will subscribe to a bank's term deposit based on marketing campaign data. This can help the bank target potential customers more effectively.
 
 **Overview**
+
 The project uses machine learning on historical customer data to make predictions. Here's a simplified structure of the repository:
 
 Data: The dataset is already in this repository named data_bank_marketing_campaign.csv.
